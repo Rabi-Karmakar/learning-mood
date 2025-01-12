@@ -1,4 +1,4 @@
 # learning-mood
+hello<br/>
 This is my first Git rapository.
-<br/> And I started Git &amp; Github first from here.
-<br/>Hello
+<br/> And I started Git & Github first from here.
